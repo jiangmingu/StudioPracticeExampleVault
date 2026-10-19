@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19.md",
+                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-19"
+              "title": "2026-10-19Do animals perceive time differently from humans?"
             }
           },
           {
@@ -27,26 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19.md",
+                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-19"
+              "title": "2026-10-19Do animals perceive time differently from humans?"
             }
           },
           {
             "id": "908c4704cf91929f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "reference WEB"
+            }
+          },
+          {
+            "id": "7ba10fadf5881f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-19Do animals perceive time differently from humans?"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -184,6 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,28 +231,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "908c4704cf91929f",
+  "active": "7ba10fadf5881f18",
   "lastOpenFiles": [
-    "Untitled 4.canvas",
+    "StudioPracticeExampleVault/DailyNotes/2026-10-19-How Animals Perceive Time.md",
+    "StudioPracticeExampleVault/Media/MySketches/Untitled 1.canvas",
+    "StudioPracticeExampleVault/Media/MySketches/Untitled.canvas",
+    "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
+    "StudioPracticeExampleVault/Media/MySketches/Untitled.md",
+    "StudioPracticeExampleVault/Media/RandomImages/CatReading.jpeg",
+    "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB.md",
+    "StudioPracticeExampleVault/Help using Obsidian.md",
+    "StudioPracticeExampleVault/Dumping ground.md",
+    "order of time.png",
+    "Octupas.png",
+    "StudioPracticeExampleVault/Media/MySketches/StickFigure.png",
     "2026-10-19.md",
+    "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
+    "Screenshot 2026-10-19 at 14.36.33.png",
+    "Screenshot 2026-10-19 at 14.36.20.png",
+    "StudioPracticeExampleVault/FeedbackNotes/00.00.26 Template.md",
+    "StudioPracticeExampleVault/FeedbackNotes/23.09.26 Example.md",
+    "Screenshot 2026-10-19 at 13.31.22.png",
+    "Screenshot 2026-10-19 at 13.31.04.png",
+    "Screenshot 2026-10-19 at 13.30.36.png",
+    "Screenshot 2026-10-19 at 13.15.05.png",
+    "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.base",
-    "StudioPracticeExampleVault/Media/ArtistExamples/example.md",
-    "StudioPracticeExampleVault/DailyNotes/2026-10-19-How Animals Perceive Time.md",
-    "StudioPracticeExampleVault/DailyNotes/2026-10-19.md",
-    "StudioPracticeExampleVault/Help using Obsidian.md",
     "Untitled 2.canvas",
     "Untitled 1.base",
     "Untitled.base",
-    "Untitled 1.canvas",
-    "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
-    "StudioPracticeExampleVault/FeedbackNotes/23.09.26 Example.md",
-    "Untitled.canvas",
-    "StudioPracticeExampleVault/Media/RandomImages/CatReading.jpeg",
-    "StudioPracticeExampleVault/Media/MySketches/StickFigure.png",
-    "StudioPracticeExampleVault/Media/ArtistExamples/KeithHaring.jpeg",
     "README.md",
-    "StudioPracticeExampleVault/FeedbackNotes/00.00.26 Template.md",
     "untitled folder"
   ]
 }
