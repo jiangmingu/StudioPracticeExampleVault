@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "2026-10-19"
             }
+          },
+          {
+            "id": "908c4704cf91929f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#perceptionOfTimeQ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +104,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +184,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,10 +210,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c7525f6ced96662",
+  "active": "908c4704cf91929f",
   "lastOpenFiles": [
-    "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
+    "Untitled 4.canvas",
+    "2026-10-19.md",
+    "Untitled 3.canvas",
+    "Untitled 2.base",
     "StudioPracticeExampleVault/Media/ArtistExamples/example.md",
+    "StudioPracticeExampleVault/DailyNotes/2026-10-19-How Animals Perceive Time.md",
+    "StudioPracticeExampleVault/DailyNotes/2026-10-19.md",
+    "StudioPracticeExampleVault/Help using Obsidian.md",
+    "Untitled 2.canvas",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
     "StudioPracticeExampleVault/FeedbackNotes/23.09.26 Example.md",
     "Untitled.canvas",
     "StudioPracticeExampleVault/Media/RandomImages/CatReading.jpeg",
@@ -215,7 +232,6 @@
     "StudioPracticeExampleVault/Media/ArtistExamples/KeithHaring.jpeg",
     "README.md",
     "StudioPracticeExampleVault/FeedbackNotes/00.00.26 Template.md",
-    "StudioPracticeExampleVault/DailyNotes/2026-10-19.md",
     "untitled folder"
   ]
 }
