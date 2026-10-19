@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a4de0cb2957d784",
+            "id": "622dbc39263a74dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,49 +22,24 @@
             }
           },
           {
-            "id": "ebe366eacfd929cf",
+            "id": "4ac3f0605d92af39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
-                "mode": "source",
-                "source": false
+                "file": "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
+                "viewState": {
+                  "x": 1020.8985715016347,
+                  "y": -259.89933206306563,
+                  "zoom": -1.49202042928939
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-10-19Do animals perceive time differently from humans?"
-            }
-          },
-          {
-            "id": "908c4704cf91929f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "reference WEB"
-            }
-          },
-          {
-            "id": "7ba10fadf5881f18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-19Do animals perceive time differently from humans?"
+              "icon": "lucide-layout-dashboard",
+              "title": "mind map"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
+                "file": "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
+                "file": "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -204,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
+                "file": "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -231,36 +206,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ba10fadf5881f18",
+  "active": "4ac3f0605d92af39",
   "lastOpenFiles": [
-    "StudioPracticeExampleVault/DailyNotes/2026-10-19-How Animals Perceive Time.md",
-    "StudioPracticeExampleVault/Media/MySketches/Untitled 1.canvas",
-    "StudioPracticeExampleVault/Media/MySketches/Untitled.canvas",
-    "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
-    "StudioPracticeExampleVault/Media/MySketches/Untitled.md",
-    "StudioPracticeExampleVault/Media/RandomImages/CatReading.jpeg",
-    "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB.md",
-    "StudioPracticeExampleVault/Help using Obsidian.md",
-    "StudioPracticeExampleVault/Dumping ground.md",
-    "order of time.png",
-    "Octupas.png",
-    "StudioPracticeExampleVault/Media/MySketches/StickFigure.png",
-    "2026-10-19.md",
+    "StudioPracticeExampleVault/DailyNotes/2026-10-19- jumping spider’s eyes.md",
+    "Screenshot 2026-10-19 at 18.20.32.png",
+    "Screenshot 2026-10-19 at 18.19.42.png",
     "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
-    "Screenshot 2026-10-19 at 14.36.33.png",
-    "Screenshot 2026-10-19 at 14.36.20.png",
+    "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
+    "StudioPracticeExampleVault/Media/MySketches/sketches.canvas",
+    "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
+    "StudioPracticeExampleVault/Dumping ground.md",
+    "StudioPracticeExampleVault/Media/RandomImages/CatReading.jpeg",
+    "pics/Octupas.png",
+    "pics/order of time.png",
+    "StudioPracticeExampleVault/DailyNotes/2026-10-19-Sensation and Perception.md",
     "StudioPracticeExampleVault/FeedbackNotes/00.00.26 Template.md",
+    "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB.md",
+    "pics/Screenshot 2026-10-19 at 13.15.05.png",
+    "2026-10-19.md",
+    "pics",
+    "Untitled.canvas",
+    "StudioPracticeExampleVault/TagQueries.md",
     "StudioPracticeExampleVault/FeedbackNotes/23.09.26 Example.md",
-    "Screenshot 2026-10-19 at 13.31.22.png",
-    "Screenshot 2026-10-19 at 13.31.04.png",
-    "Screenshot 2026-10-19 at 13.30.36.png",
-    "Screenshot 2026-10-19 at 13.15.05.png",
+    "Untitled.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
-    "Untitled 2.base",
     "Untitled 2.canvas",
-    "Untitled 1.base",
-    "Untitled.base",
+    "StudioPracticeExampleVault/Help using Obsidian.md",
+    "StudioPracticeExampleVault/DailyNotes/2026-10-19-How Animals Perceive Time.md",
+    "StudioPracticeExampleVault/Media/MySketches/Untitled.md",
+    "StudioPracticeExampleVault/Media/MySketches/StickFigure.png",
+    "pics/Screenshot 2026-10-19 at 14.36.33.png",
+    "pics/Screenshot 2026-10-19 at 14.36.20.png",
+    "pics/Screenshot 2026-10-19 at 13.31.22.png",
     "README.md",
     "untitled folder"
   ]
