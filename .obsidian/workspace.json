@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudioPracticeExampleVault/Media/ArtistExamples/reference book.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reference book"
+              "title": "README"
             }
           },
           {
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudioPracticeExampleVault/Media/ArtistExamples/reference book.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudioPracticeExampleVault/Media/ArtistExamples/reference book.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudioPracticeExampleVault/Media/ArtistExamples/reference book.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -269,8 +269,8 @@
   },
   "active": "523ba7827cc89981",
   "lastOpenFiles": [
-    "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB.md",
     "StudioPracticeExampleVault/Media/ArtistExamples/reference book.md",
+    "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB.md",
     "StudioPracticeExampleVault/FeedbackNotes/23.09.26 Example.md",
     "StudioPracticeExampleVault/FeedbackNotes/00.00.26 Template.md",
     "StudioPracticeExampleVault/DailyNotes/10-20.md",
