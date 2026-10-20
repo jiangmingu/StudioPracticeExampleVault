@@ -5,3 +5,4 @@ Once you read something, its a good idea to write a quick reflection or summary 
 	This is a story about a boy selling property that wasn't his, and using his ill gotten gains to rob a giant. It made me rethink creative copyright law.
 - [x] Humpty Dumpty
 - [x] Little red riding hood
+

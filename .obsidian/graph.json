@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "tag:#film  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048448
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.22373771224307,
+  "lineSizeMultiplier": 2.33899128686327,
+  "collapse-forces": false,
+  "centerStrength": 0.452524575513852,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.2330494216940937,
+  "scale": 0.9570253616183677,
   "close": false
 }

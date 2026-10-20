@@ -8,38 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "622dbc39263a74dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-19Do animals perceive time differently from humans?"
-            }
-          },
-          {
-            "id": "4ac3f0605d92af39",
+            "id": "7a86c247353b2cd2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
+                "file": "StudioPracticeExampleVault/Media/MySketches/sketches.canvas",
                 "viewState": {
-                  "x": 1020.8985715016347,
-                  "y": -259.89933206306563,
-                  "zoom": -1.49202042928939
+                  "x": -15.990000000000016,
+                  "y": 38.31000000000001,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "mind map"
+              "title": "sketches"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.7421875
   },
   "right": {
     "id": "54f5a23625684f0c",
@@ -117,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
+                "file": "StudioPracticeExampleVault/pics/Octupas.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
+                "file": "StudioPracticeExampleVault/pics/Octupas.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -179,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
+                "file": "StudioPracticeExampleVault/pics/Octupas.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,41 +191,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "4ac3f0605d92af39",
+  "active": "7a86c247353b2cd2",
   "lastOpenFiles": [
-    "StudioPracticeExampleVault/DailyNotes/2026-10-19- jumping spider’s eyes.md",
-    "Screenshot 2026-10-19 at 18.20.32.png",
-    "Screenshot 2026-10-19 at 18.19.42.png",
-    "StudioPracticeExampleVault/DailyNotes/2026-10-19Do animals perceive time differently from humans?.md",
-    "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
+    "StudioPracticeExampleVault/DailyNotes/10-19.md",
+    "StudioPracticeExampleVault/Analysis of references/2026-10-19-Sensation and Perception.md",
+    "StudioPracticeExampleVault/Analysis of references/2026-10-19-How Animals Perceive Time.md",
+    "StudioPracticeExampleVault/research ways/Untitled.md",
+    "StudioPracticeExampleVault/Analysis of references/2026-10-19- jumping spider’s eyes.md",
+    "StudioPracticeExampleVault/Proposal/WIP Proposal.md",
+    "film/article/film ref reading list.md",
+    "film/article/music.md",
+    "StudioPracticeExampleVault/Proposal",
+    "StudioPracticeExampleVault/Media/ArtistExamples/reference book.md",
     "StudioPracticeExampleVault/Media/MySketches/sketches.canvas",
+    "KeithHaring.jpeg.md",
+    "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB.md",
+    "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
+    "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 18.19.42.png",
+    "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 18.20.32.png",
+    "StudioPracticeExampleVault/FeedbackNotes/23.09.26 Example.md",
+    "film/article",
+    "film",
+    "StudioPracticeExampleVault/research ways",
+    "StudioPracticeExampleVault/Analysis of references",
+    "StudioPracticeExampleVault/Analysis of references/2026-10-19Do animals perceive time differently from humans?.md",
     "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
+    "StudioPracticeExampleVault/Help using Obsidian.md",
     "StudioPracticeExampleVault/Dumping ground.md",
     "StudioPracticeExampleVault/Media/RandomImages/CatReading.jpeg",
-    "pics/Octupas.png",
-    "pics/order of time.png",
-    "StudioPracticeExampleVault/DailyNotes/2026-10-19-Sensation and Perception.md",
+    "StudioPracticeExampleVault/pics/Octupas.png",
+    "StudioPracticeExampleVault/pics/order of time.png",
     "StudioPracticeExampleVault/FeedbackNotes/00.00.26 Template.md",
-    "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB.md",
-    "pics/Screenshot 2026-10-19 at 13.15.05.png",
+    "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 13.15.05.png",
     "2026-10-19.md",
-    "pics",
+    "StudioPracticeExampleVault/pics",
     "Untitled.canvas",
     "StudioPracticeExampleVault/TagQueries.md",
-    "StudioPracticeExampleVault/FeedbackNotes/23.09.26 Example.md",
     "Untitled.base",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "StudioPracticeExampleVault/Help using Obsidian.md",
-    "StudioPracticeExampleVault/DailyNotes/2026-10-19-How Animals Perceive Time.md",
     "StudioPracticeExampleVault/Media/MySketches/Untitled.md",
     "StudioPracticeExampleVault/Media/MySketches/StickFigure.png",
-    "pics/Screenshot 2026-10-19 at 14.36.33.png",
-    "pics/Screenshot 2026-10-19 at 14.36.20.png",
-    "pics/Screenshot 2026-10-19 at 13.31.22.png",
+    "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 14.36.33.png",
+    "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 14.36.20.png",
+    "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 13.31.22.png",
     "README.md",
     "untitled folder"
   ]
