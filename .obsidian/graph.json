@@ -11,7 +11,14 @@
       "query": "tag:#film  ",
       "color": {
         "a": 1,
-        "rgb": 14048448
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
       }
     }
   ],
@@ -26,5 +33,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.9570253616183677,
-  "close": false
+  "close": true
 }

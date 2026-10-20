@@ -1,5 +1,5 @@
  https://www.science.org/content/article/do-animals-perceive-time-differently-humans
-### #time #perceptionOfTimeQ: Why are timescapes important for understanding how animals perceive time, and how do the timescapes of humans and nonhuman animals differ?
+### #time #perceptionOfTime: Why are timescapes important for understanding how animals perceive time, and how do the timescapes of humans and nonhuman animals differ?
 
 A: what we mean is the rate at which they segment the world could be different，Let’s say both of us are talking right now and we can understand each other because there is a particular rhythm to my speech. You can segment over time and pick up on the relevant information. ==If I slowed it down too much==, ==the same comprehension would become very difficult== This shows that there is an optimal rhythm or tempo at which humans segment speech.
 

@@ -4,5 +4,18 @@
 #tool 
 
 '''
+Computational Arts
+#poetic 
+#sensationAndPerception 
+#perceptionOfTime 
 
+
+
+
+
+
+
+Film
+#film 
+#music 
 
