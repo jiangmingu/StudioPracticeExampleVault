@@ -26,4 +26,5 @@
     https://www.futurelearn.com/info/courses/artificial-intelligence-fact-fiction/0/steps/72507
 10. Light needs time to travel through space #time **==[[10-20-How Can Webb Study the Early Universe?]]==**
      https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-can-webb-study-the-early-universe/
- 11. 
+ 11. 软科幻小说与硬科幻小说的区别  #fiction
+     https://www.zhihu.com/question/26112978

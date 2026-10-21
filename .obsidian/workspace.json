@@ -14,72 +14,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudioPracticeExampleVault/Proposal/去WIP Proposal.md",
+                "file": "StudioPracticeExampleVault/DailyNotes/10-20 proposal draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "去WIP Proposal"
+              "title": "10-20 proposal draft"
             }
           },
           {
-            "id": "5f1755342baeefb4",
+            "id": "b7972f2588fc54b3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
+                "viewState": {
+                  "x": 994.6321219393634,
+                  "y": 163.6817325694106,
+                  "zoom": -0.7667001267063697
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "mind map"
+            }
+          },
+          {
+            "id": "12912b515ae24a71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudioPracticeExampleVault/Analysis of references/2026-10-19Do animals perceive time differently from humans?.md",
+                "file": "StudioPracticeExampleVault/Media/ArtistExamples/artist and art reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-19Do animals perceive time differently from humans?"
-            }
-          },
-          {
-            "id": "ef8d597b4f7cff11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/10-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10-19"
-            }
-          },
-          {
-            "id": "523ba7827cc89981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "3ff4aeecad2ccaec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "reference WEB"
+              "title": "artist and art reference"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "1392f7b21e441e1b",
@@ -92,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudioPracticeExampleVault/Proposal/去WIP Proposal.md",
+                "file": "StudioPracticeExampleVault/Proposal/WIP 1 Proposal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "去WIP Proposal"
+              "title": "WIP 1 Proposal"
             }
           }
         ]
@@ -162,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.41796875
   },
   "right": {
     "id": "54f5a23625684f0c",
@@ -178,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "StudioPracticeExampleVault/Media/ArtistExamples/artist and art reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "StudioPracticeExampleVault/Media/ArtistExamples/artist and art reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -240,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "StudioPracticeExampleVault/Media/ArtistExamples/artist and art reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -267,57 +242,58 @@
       "bases:Create new base": false
     }
   },
-  "active": "523ba7827cc89981",
+  "active": "12912b515ae24a71",
   "lastOpenFiles": [
-    "StudioPracticeExampleVault/Media/ArtistExamples/reference book.md",
-    "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB.md",
-    "StudioPracticeExampleVault/FeedbackNotes/23.09.26 Example.md",
-    "StudioPracticeExampleVault/FeedbackNotes/00.00.26 Template.md",
-    "StudioPracticeExampleVault/DailyNotes/10-20.md",
-    "StudioPracticeExampleVault/DailyNotes/10-19.md",
+    "StudioPracticeExampleVault/DailyNotes/10-20 proposal draft.md",
+    "StudioPracticeExampleVault/Media/ArtistExamples/artist and art reference.md",
+    "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB article.md",
+    "StudioPracticeExampleVault/Proposal/WIP 1 Proposal.md",
+    "Screenshot 2026-10-21 at 03.18.03.png",
+    "Screenshot 2026-10-21 at 03.17.50.png",
+    "DSC02034.jpg",
+    "Screenshot 2026-10-21 at 03.12.57.png",
     "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
+    "StudioPracticeExampleVault/Media/ArtistExamples/reference book.md",
     "StudioPracticeExampleVault/Analysis of references/10-20-How Can Webb Study the Early Universe?.md",
-    "StudioPracticeExampleVault/Proposal/去WIP Proposal.md",
-    "StudioPracticeExampleVault/pics/Screenshot 2026-10-20 at 15.07.20.png",
-    "StudioPracticeExampleVault/Analysis of references/2026-10-19Do animals perceive time differently from humans?.md",
+    "StudioPracticeExampleVault/DailyNotes/10-19.md",
+    "StudioPracticeExampleVault/Question/Question.md",
+    "StudioPracticeExampleVault/Help using Obsidian.md",
+    "KeithHaring.jpeg.md",
+    "StudioPracticeExampleVault/pics/Immense World _ How Animal Sens - Yong, Ed 2.pdf",
+    "StudioPracticeExampleVault/pics/Immense World _ How Animal Sens - Yong, Ed 1.pdf",
+    "StudioPracticeExampleVault/pics/Immense World _ How Animal Sens - Yong, Ed.pdf",
+    "StudioPracticeExampleVault/Question",
     "StudioPracticeExampleVault/Analysis of references/2026-10-19-Sensation and Perception.md",
+    "StudioPracticeExampleVault/Analysis of references/2026-10-19Do animals perceive time differently from humans?.md",
+    "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
     "StudioPracticeExampleVault/Analysis of references/2026-10-19-How Animals Perceive Time.md",
     "StudioPracticeExampleVault/Analysis of references/2026-10-19- jumping spider’s eyes.md",
+    "StudioPracticeExampleVault/Dumping ground.md",
+    "README.md",
+    "StudioPracticeExampleVault/FeedbackNotes/23.09.26 Example.md",
+    "StudioPracticeExampleVault/FeedbackNotes/00.00.26 Template.md",
+    "StudioPracticeExampleVault/pics/Screenshot 2026-10-20 at 15.07.20.png",
     "StudioPracticeExampleVault/TagQueries.md",
     "Film/article/film ref reading list.md",
     "Film/article/music.md",
     "StudioPracticeExampleVault/research ways/research way.md",
-    "StudioPracticeExampleVault/Dumping ground.md",
-    "StudioPracticeExampleVault/Help using Obsidian.md",
     "StudioPracticeExampleVault/pics/Screenshot 2026-10-20 at 01.51.10.png",
     "Untitled 1.md",
     "StudioPracticeExampleVault/Media/MySketches/sketches.canvas",
     "StudioPracticeExampleVault/Proposal",
-    "KeithHaring.jpeg.md",
     "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 18.19.42.png",
     "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 18.20.32.png",
     "Film/article",
     "Film",
     "StudioPracticeExampleVault/research ways",
     "StudioPracticeExampleVault/Analysis of references",
-    "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
     "StudioPracticeExampleVault/Media/RandomImages/CatReading.jpeg",
     "StudioPracticeExampleVault/pics/Octupas.png",
-    "StudioPracticeExampleVault/pics/order of time.png",
-    "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 13.15.05.png",
     "2026-10-19.md",
     "StudioPracticeExampleVault/pics",
     "Untitled.canvas",
-    "Untitled.base",
-    "Untitled 2.base",
-    "Untitled 1.base",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "StudioPracticeExampleVault/Media/MySketches/Untitled.md",
-    "StudioPracticeExampleVault/Media/MySketches/StickFigure.png",
-    "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 14.36.33.png",
-    "README.md",
-    "untitled folder"
+    "Untitled 2.canvas"
   ]
 }

@@ -109,3 +109,8 @@ In **Settings → Core plugins**, try these:
 - There are also lots of themes and colour options other people have created.
 
 Once you're comfortable, **Community plugins** add many more features. Dataview, Calendar and Excalidraw are popular starting points.
+
+## 7. directly open file via a link in local document
+```
+[你想显示的文字](file:///文件的完整路径)
+```
