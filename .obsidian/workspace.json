@@ -6,63 +6,9 @@
       {
         "id": "9086310f7f195f34",
         "type": "tabs",
-        "dimension": 74.93734335839599,
         "children": [
-          {
-            "id": "7a86c247353b2cd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudioPracticeExampleVault/DailyNotes/10-20 proposal draft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10-20 proposal draft"
-            }
-          },
-          {
-            "id": "b7972f2588fc54b3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
-                "viewState": {
-                  "x": 994.6321219393634,
-                  "y": 163.6817325694106,
-                  "zoom": -0.7667001267063697
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "mind map"
-            }
-          },
           {
             "id": "12912b515ae24a71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StudioPracticeExampleVault/Media/ArtistExamples/artist and art reference.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "artist and art reference"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "1392f7b21e441e1b",
-        "type": "tabs",
-        "dimension": 25.062656641604008,
-        "children": [
-          {
-            "id": "1690d2ab51dd0c08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "10-29",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,20 +190,45 @@
   },
   "active": "12912b515ae24a71",
   "lastOpenFiles": [
+    "StudioPracticeExampleVault/DailyNotes/10-29 Oracle machine.md",
     "StudioPracticeExampleVault/DailyNotes/10-20 proposal draft.md",
-    "StudioPracticeExampleVault/Media/ArtistExamples/artist and art reference.md",
-    "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB article.md",
-    "StudioPracticeExampleVault/Proposal/WIP 1 Proposal.md",
-    "Screenshot 2026-10-21 at 03.18.03.png",
-    "Screenshot 2026-10-21 at 03.17.50.png",
-    "DSC02034.jpg",
-    "Screenshot 2026-10-21 at 03.12.57.png",
+    "StudioPracticeExampleVault/Help using Obsidian.md",
+    "Film & Photography/photography/Yueze Zeng/reference.canvas",
+    "StudioPracticeExampleVault/pics/DSC02034.jpg",
+    "StudioPracticeExampleVault/!!!!!DEADLINE!!!!!!/!!!!!!!DEADLINE!!!!!!!!!.md",
     "StudioPracticeExampleVault/Media/MySketches/mind map.canvas",
+    "Film & Photography/photography/Yueze Zeng/list  10月30号前.md",
+    "Film & Photography/photography/Yueze Zeng/Pics/ea43c1f4cf9f8c08c15063bf60b4b278.jpg",
+    "StudioPracticeExampleVault/Media/ArtistExamples/reference WEB article.md",
+    "StudioPracticeExampleVault/Media/MySketches/sketches.canvas",
+    "poetic/movement.md",
+    "StudioPracticeExampleVault/Dumping ground.md",
     "StudioPracticeExampleVault/Media/ArtistExamples/reference book.md",
+    "Film & Photography/photography/Yueze Zeng/Pics/996d4ba54b2523b23bb2963eedce28a7.jpg",
+    "Film & Photography/photography/Yueze Zeng/Pics/37f71dd22e3bdf795cdc9f94ed70a14e.jpg",
+    "Film & Photography/photography/Yueze Zeng/Pics/5e9193875c367bc7bc1106de1c5a8d90.jpg",
+    "Film & Photography/photography/Yueze Zeng/Pics/2a12786d72830976a8e8348ba9560ab8.jpg",
+    "StudioPracticeExampleVault/Proposal/WIP 1 Proposal.md",
+    "Film & Photography/photography/Yueze Zeng/Pics/CEF03EB7-F10A-4386-8395-957C4B5E6D84 2.jpg",
+    "Film & Photography/photography/Yueze Zeng/Pics/CEF03EB7-F10A-4386-8395-957C4B5E6D84.jpg",
+    "Film & Photography/photography/Yueze Zeng/Pics/ed2f0d3f1066a4858ac5bec4417ef4e4.jpg",
+    "Film & Photography/photography/Yueze Zeng/Pics/c6940ae4cceb097777890eb980daca3f.jpg",
+    "Film & Photography/photography/Yueze Zeng/Pics",
+    "Film & Photography/photography/Yueze Zeng/Untitled.md",
+    "Film & Photography/photography/Yueze Zeng",
+    "Film & Photography/photography",
+    "Film & Photography",
+    "poetic",
+    "StudioPracticeExampleVault/FeedbackNotes/23.09.26 Example.md",
+    "StudioPracticeExampleVault/FeedbackNotes/00.00.26 Template.md",
+    "StudioPracticeExampleVault/research ways/research way.md",
+    "StudioPracticeExampleVault/TagQueries.md",
+    "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
+    "StudioPracticeExampleVault/!!!!!DEADLINE!!!!!!",
+    "StudioPracticeExampleVault/Media/ArtistExamples/artist and art reference.md",
     "StudioPracticeExampleVault/Analysis of references/10-20-How Can Webb Study the Early Universe?.md",
     "StudioPracticeExampleVault/DailyNotes/10-19.md",
     "StudioPracticeExampleVault/Question/Question.md",
-    "StudioPracticeExampleVault/Help using Obsidian.md",
     "KeithHaring.jpeg.md",
     "StudioPracticeExampleVault/pics/Immense World _ How Animal Sens - Yong, Ed 2.pdf",
     "StudioPracticeExampleVault/pics/Immense World _ How Animal Sens - Yong, Ed 1.pdf",
@@ -265,33 +236,8 @@
     "StudioPracticeExampleVault/Question",
     "StudioPracticeExampleVault/Analysis of references/2026-10-19-Sensation and Perception.md",
     "StudioPracticeExampleVault/Analysis of references/2026-10-19Do animals perceive time differently from humans?.md",
-    "StudioPracticeExampleVault/ReadingList/A list of things I want to read.md",
     "StudioPracticeExampleVault/Analysis of references/2026-10-19-How Animals Perceive Time.md",
     "StudioPracticeExampleVault/Analysis of references/2026-10-19- jumping spider’s eyes.md",
-    "StudioPracticeExampleVault/Dumping ground.md",
-    "README.md",
-    "StudioPracticeExampleVault/FeedbackNotes/23.09.26 Example.md",
-    "StudioPracticeExampleVault/FeedbackNotes/00.00.26 Template.md",
-    "StudioPracticeExampleVault/pics/Screenshot 2026-10-20 at 15.07.20.png",
-    "StudioPracticeExampleVault/TagQueries.md",
-    "Film/article/film ref reading list.md",
-    "Film/article/music.md",
-    "StudioPracticeExampleVault/research ways/research way.md",
-    "StudioPracticeExampleVault/pics/Screenshot 2026-10-20 at 01.51.10.png",
-    "Untitled 1.md",
-    "StudioPracticeExampleVault/Media/MySketches/sketches.canvas",
-    "StudioPracticeExampleVault/Proposal",
-    "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 18.19.42.png",
-    "StudioPracticeExampleVault/pics/Screenshot 2026-10-19 at 18.20.32.png",
-    "Film/article",
-    "Film",
-    "StudioPracticeExampleVault/research ways",
-    "StudioPracticeExampleVault/Analysis of references",
-    "StudioPracticeExampleVault/Media/RandomImages/CatReading.jpeg",
-    "StudioPracticeExampleVault/pics/Octupas.png",
-    "2026-10-19.md",
-    "StudioPracticeExampleVault/pics",
-    "Untitled.canvas",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas"

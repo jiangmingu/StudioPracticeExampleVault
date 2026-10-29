@@ -11,3 +11,5 @@
      https://www.tate.org.uk/art/artworks/cox-three-graces-amor-voluptas-pulchritudo-t14385
 - ![](https://www.lilianelijn.com/archive/layout/1p.gif)Liliane Lijn   ‘Get Rid Of Government Time’ 
      https://www.lilianelijn.com/archive/pom01.html
+ - 安野光雅
+     https://play2020.jp/article/anno/

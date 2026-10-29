@@ -15,4 +15,6 @@
       
 - GoatMan ' How I took a Holiday from Being Human'                 
     #sensationAndPerception 
-- 
+- the library of babel
+     https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf
+  
